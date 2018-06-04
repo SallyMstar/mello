@@ -1,1 +1,8 @@
 /* CSS starter page for new projects */
+body {
+     background-color: lightblue;
+}
+
+img {
+     max-height: 300px;
+}
